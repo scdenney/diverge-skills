@@ -8,7 +8,7 @@ Creative divergence skills for Claude Code and Codex. Based on [Creative Prefere
 
 ### Motivation for this skill
 
-Ismayilzada et al. proposed **Creative Preference Optimization (CrPO)**, a modification to the standard preference alignment training used in models like Claude and GPT-4o. Standard alignment (RLHF/DPO) optimizes for human-preferred outputs — which in practice means the most expected, least surprising ones. CrPO injects four additional signals into that training objective:
+Ismayilzada et al. proposed **Creative Preference Optimization (CrPO)**, a modification to the standard preference alignment training used in models like Claude and Chat GPT. Standard alignment (RLHF/DPO) optimizes for human-preferred outputs — which in practice means the most expected, least surprising ones. CrPO injects four additional signals into that training objective:
 
 - **Novelty** — how semantically distant a response is from other known responses (measured via divergent semantic integration)
 - **Diversity** — pairwise semantic distance from other responses to the same prompt
