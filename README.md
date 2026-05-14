@@ -1,5 +1,7 @@
 # diverge-skills
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Creative divergence skills for Claude Code and Codex. Based on [Creative Preference Optimization](https://arxiv.org/abs/2505.14442) (Ismayilzada et al., EMNLP 2025): before implementing, generate multiple conceptually distinct approaches — labeled by creativity dimension — and select.
 
 ---

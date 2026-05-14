@@ -7,7 +7,7 @@ description: |
   Holds for user selection before touching any code or files.
   Based on Creative Preference Optimization (Ismayilzada et al., 2025) —
   brainstorm-then-select for maximizing novelty, surprise, and diversity.
-license: MIT
+license: CC-BY-4.0
 compatibility: claude-code
 allowed-tools:
   - Bash

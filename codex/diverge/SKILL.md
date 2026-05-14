@@ -1,5 +1,6 @@
 ---
 name: diverge
+license: CC-BY-4.0
 description: |
   Generate 3–5 conceptually distinct approaches to a task before implementing.
   Labels each by creativity dimension: Novel, Surprising, Diverse, or Conventional.

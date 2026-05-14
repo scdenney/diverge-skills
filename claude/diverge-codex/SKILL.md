@@ -6,7 +6,7 @@ description: |
   Claude orchestrates; Codex generates 3–5 distinct approaches before
   implementing. Based on Creative Preference Optimization (Ismayilzada et al.,
   2025) — brainstorm-then-select adapted for Codex delegation.
-license: MIT
+license: CC-BY-4.0
 compatibility: claude-code
 allowed-tools:
   - Read
